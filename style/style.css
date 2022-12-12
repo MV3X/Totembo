@@ -99,6 +99,7 @@ body {
     height: 100%;
 }
 .header__content-item1 {
+    transition: all 300ms;
     grid-row: span 2;
     background: #E1E1E1;
     border-radius: 10px;
@@ -174,6 +175,7 @@ body {
     transform: scale(0.9);
 }
 .main__watch-item {
+    transition: all 300ms;
     display: flex;
     flex-direction: column;
     justify-content: center;
